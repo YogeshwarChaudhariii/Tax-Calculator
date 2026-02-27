@@ -11,17 +11,6 @@ struct TaxPayerIncome
     double Deductions;               // 80C, 80D, HRA
 };
 
-struct TaxResult
-{
-    double GrossIncome;
-    double TaxableIncome;
-    double Tax;
-    double Cess;                    // 4%
-    double TotalTax;
-    double MonthlyTax;
-    double EffectiveRate;
-};
-
 class TaxCalculator
 {
     private:
@@ -185,4 +174,5 @@ int main()
 
 
     return 0;
+
 }
