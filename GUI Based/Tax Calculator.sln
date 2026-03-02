@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tax Calculator", "Tax Calculator.vcxproj", "{F4E89CCE-4A5E-4F15-A45D-3D0F7E63096C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E89CCE-4A5E-4F15-A45D-3D0F7E63096C}.Debug|x64.ActiveCfg = Debug|x64
+		{F4E89CCE-4A5E-4F15-A45D-3D0F7E63096C}.Debug|x64.Build.0 = Debug|x64
+		{F4E89CCE-4A5E-4F15-A45D-3D0F7E63096C}.Release|x64.ActiveCfg = Release|x64
+		{F4E89CCE-4A5E-4F15-A45D-3D0F7E63096C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B7B51D1-9AB2-408B-B79D-E8033937795B}
+	EndGlobalSection
+EndGlobal
