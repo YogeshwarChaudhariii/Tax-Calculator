@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect><x>0</x><y>0</y><width>1050</width><height>780</height></rect>
+  </property>
+  <property name="windowTitle">
+   <string>Income Tax Calculator – FY 2024-25</string>
+  </property>
+ </widget>
+</ui>
